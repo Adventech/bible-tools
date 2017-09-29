@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zephaniah",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<span class=\"chapternum\">1 </span>The <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> gave this message to Zephaniah when Josiah son of Amon was king of Judah. Zephaniah was the son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah.",
+			"2": "<sup class=\"versenum\">2 </sup>“I will sweep away everythingfrom the face of the earth,” says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"3": "<sup class=\"versenum\">3 </sup>“I will sweep away people and animals alike.I will sweep away the birds of the sky and the fish in the sea.I will reduce the wicked to heaps of rubble,and I will wipe humanity from the face of the earth,” says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"4": "<sup class=\"versenum\">4 </sup>“I will crush Judah and Jerusalem with my fistand destroy every last trace of their Baal worship.I will put an end to all the idolatrous priests,so that even the memory of them will disappear.",
+			"5": "<sup class=\"versenum\">5 </sup>For they go up to their roofsand bow down to the sun, moon, and stars.They claim to follow the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>,but then they worship Molech, too.",
+			"6": "<sup class=\"versenum\">6 </sup>And I will destroy those who used to worship mebut now no longer do.They no longer ask for the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s guidanceor seek my blessings.”",
+			"7": "<sup class=\"versenum\">7 </sup>Stand in silence in the presence of the Sovereign <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>,for the awesome day of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s judgment is near.The <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> has prepared his people for a great slaughterand has chosen their executioners.",
+			"8": "<sup class=\"versenum\">8 </sup>“On that day of judgment,”says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>,“I will punish the leaders and princes of Judahand all those following pagan customs.",
+			"9": "<sup class=\"versenum\">9 </sup>Yes, I will punish those who participate in pagan worship ceremonies,and those who fill their masters’ houses with violence and deceit.",
+			"10": "<sup class=\"versenum\">10 </sup>“On that day,” says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>,“a cry of alarm will come from the Fish Gateand echo throughout the New Quarter of the city.And a great crash will sound from the hills.",
+			"11": "<sup class=\"versenum\">11 </sup>Wail in sorrow, all you who live in the market area,for all the merchants and traders will be destroyed.",
+			"12": "<sup class=\"versenum\">12 </sup>“I will search with lanterns in Jerusalem’s darkest cornersto punish those who sit complacent in their sins.They think the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> will do nothing to them,either good or bad.",
+			"13": "<sup class=\"versenum\">13 </sup>So their property will be plundered,their homes will be ransacked.They will build new homesbut never live in them.They will plant vineyardsbut never drink wine from them.",
+			"14": "<sup class=\"versenum\">14 </sup>“That terrible day of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> is near.Swiftly it comes—a day of bitter tears,a day when even strong men will cry out.",
+			"15": "<sup class=\"versenum\">15 </sup>It will be a day when the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s anger is poured out—a day of terrible distress and anguish,a day of ruin and desolation,a day of darkness and gloom,a day of clouds and blackness,",
+			"16": "<sup class=\"versenum\">16 </sup><span class=\"indent-1-breaks\">&nbsp;&nbsp;&nbsp;&nbsp;</span>a day of trumpet calls and battle cries.Down go the walled citiesand the strongest battlements!",
+			"17": "<sup class=\"versenum\">17 </sup>“Because you have sinned against the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>,I will make you grope around like the blind.Your blood will be poured into the dust,and your bodies will lie rotting on the ground.”",
+			"18": "<sup class=\"versenum\">18 </sup>Your silver and gold will not save youon that day of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s anger.For the whole land will be devouredby the fire of his jealousy.He will make a terrifying endof all the people on earth."
+		},
+		"2": {
+			"1": "<span class=\"chapternum\">2 </span>Gather together—yes, gather together,you shameless nation.",
+			"2": "<sup class=\"versenum\">2 </sup>Gather before judgment begins,before your time to repent is blown away like chaff.Act now, before the fierce fury of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> fallsand the terrible day of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s anger begins.",
+			"3": "<sup class=\"versenum\">3 </sup>Seek the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>, all who are humble,and follow his commands.Seek to do what is rightand to live humbly.Perhaps even yet the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> will protect you—protect you from his anger on that day of destruction.",
+			"4": "<sup class=\"versenum\">4 </sup>Gaza and Ashkelon will be abandoned,Ashdod and Ekron torn down.",
+			"5": "<sup class=\"versenum\">5 </sup>And what sorrow awaits you Philistineswho live along the coast and in the land of Canaan,for this judgment is against you, too!The <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> will destroy youuntil not one of you is left.",
+			"6": "<sup class=\"versenum\">6 </sup>The Philistine coast will become a wilderness pasture,a place of shepherd campsand enclosures for sheep and goats.",
+			"7": "<sup class=\"versenum\">7 </sup>The remnant of the tribe of Judah will pasture there.They will rest at night in the abandoned houses in Ashkelon.For the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> their God will visit his people in kindnessand restore their prosperity again.",
+			"8": "<sup class=\"versenum\">8 </sup>“I have heard the taunts of the Moabitesand the insults of the Ammonites,mocking my peopleand invading their borders.",
+			"9": "<sup class=\"versenum\">9 </sup>Now, as surely as I live,”says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies, the God of Israel,“Moab and Ammon will be destroyed—destroyed as completely as Sodom and Gomorrah.Their land will become a place of stinging nettles,salt pits, and eternal desolation.The remnant of my people will plunder themand take their land.”",
+			"10": "<sup class=\"versenum\">10 </sup>They will receive the wages of their pride,for they have scoffed at the people of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies.",
+			"11": "<sup class=\"versenum\">11 </sup>The <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> will terrify themas he destroys all the gods in the land.Then nations around the world will worship the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>,each in their own land.",
+			"12": "<sup class=\"versenum\">12 </sup>“You Ethiopians will also be slaughteredby my sword,” says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"13": "<sup class=\"versenum\">13 </sup>And the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> will strike the lands of the north with his fist,destroying the land of Assyria.He will make its great capital, Nineveh, a desolate wasteland,parched like a desert.",
+			"14": "<sup class=\"versenum\">14 </sup>The proud city will become a pasture for flocks and herds,and all sorts of wild animals will settle there.The desert owl and screech owl will roost on its ruined columns,their calls echoing through the gaping windows.Rubble will block all the doorways,and the cedar paneling will be exposed to the weather.",
+			"15": "<sup class=\"versenum\">15 </sup>This is the boisterous city,once so secure.“I am the greatest!” it boasted.“No other city can compare with me!”But now, look how it has become an utter ruin,a haven for wild animals.Everyone passing by will laugh in derisionand shake a defiant fist."
+		},
+		"3": {
+			"1": "<span class=\"chapternum\">3 </span>What sorrow awaits rebellious, polluted Jerusalem,the city of violence and crime!",
+			"2": "<sup class=\"versenum\">2 </sup>No one can tell it anything;it refuses all correction.It does not trust in the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>or draw near to its God.",
+			"3": "<sup class=\"versenum\">3 </sup>Its leaders are like roaring lionshunting for their victims.Its judges are like ravenous wolves at evening time,who by dawn have left no trace of their prey.",
+			"4": "<sup class=\"versenum\">4 </sup>Its prophets are arrogant liars seeking their own gain.Its priests defile the Temple by disobeying God’s instructions.",
+			"5": "<sup class=\"versenum\">5 </sup>But the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> is still there in the city,and he does no wrong.Day by day he hands down justice,and he does not fail.But the wicked know no shame.",
+			"6": "<sup class=\"versenum\">6 </sup>“I have wiped out many nations,devastating their fortress walls and towers.Their streets are now deserted;their cities lie in silent ruin.There are no survivors—none at all.",
+			"7": "<sup class=\"versenum\">7 </sup>I thought, ‘Surely they will have reverence for me now!Surely they will listen to my warnings.Then I won’t need to strike again,destroying their homes.’But no, they get up earlyto continue their evil deeds.",
+			"8": "<sup class=\"versenum\">8 </sup>Therefore, be patient,” says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.“Soon I will stand and accuse these evil nations.For I have decided to gather the kingdoms of the earthand pour out my fiercest anger and fury on them.All the earth will be devouredby the fire of my jealousy.",
+			"9": "<sup class=\"versenum\">9 </sup>“Then I will purify the speech of all people,so that everyone can worship the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> together.",
+			"10": "<sup class=\"versenum\">10 </sup>My scattered people who live beyond the rivers of Ethiopiawill come to present their offerings.",
+			"11": "<sup class=\"versenum\">11 </sup>On that day you will no longer need to be ashamed,for you will no longer be rebels against me.I will remove all proud and arrogant people from among you.There will be no more haughtiness on my holy mountain.",
+			"12": "<sup class=\"versenum\">12 </sup>Those who are left will be the lowly and humble,for it is they who trust in the name of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"13": "<sup class=\"versenum\">13 </sup>The remnant of Israel will do no wrong;they will never tell lies or deceive one another.They will eat and sleep in safety,and no one will make them afraid.”",
+			"14": "<sup class=\"versenum\">14 </sup>Sing, O daughter of Zion;shout aloud, O Israel!Be glad and rejoice with all your heart,O daughter of Jerusalem!",
+			"15": "<sup class=\"versenum\">15 </sup>For the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> will remove his hand of judgmentand will disperse the armies of your enemy.And the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> himself, the King of Israel,will live among you!At last your troubles will be over,and you will never again fear disaster.",
+			"16": "<sup class=\"versenum\">16 </sup>On that day the announcement to Jerusalem will be,“Cheer up, Zion! Don’t be afraid!",
+			"17": "<sup class=\"versenum\">17 </sup>For the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> your God is living among you.He is a mighty savior.He will take delight in you with gladness.With his love, he will calm all your fears.He will rejoice over you with joyful songs.”",
+			"18": "<sup class=\"versenum\">18 </sup>“I will gather you who mourn for the appointed festivals;you will be disgraced no more.",
+			"19": "<sup class=\"versenum\">19 </sup>And I will deal severely with all who have oppressed you.I will save the weak and helpless ones;I will bring togetherthose who were chased away.I will give glory and fame to my former exiles,wherever they have been mocked and shamed.",
+			"20": "<sup class=\"versenum\">20 </sup>On that day I will gather you togetherand bring you home again.I will give you a good name, a name of distinction,among all the nations of the earth,as I restore your fortunes before their very eyes.I, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>, have spoken!”"
+		}
+	}
+};
+module.exports = book;
