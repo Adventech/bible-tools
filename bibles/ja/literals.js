@@ -7,7 +7,7 @@ var literals = {
 
     "and": {
         "list": [
-            "と"
+            "と", "、"
         ]
     }
 };
