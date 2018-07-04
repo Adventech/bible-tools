@@ -1,0 +1,49 @@
+var book = {
+	"name": "Haggai",
+	"numChapters": 2,
+	"chapters": {
+		"1": {
+			"1": "<span class=\"chapternum\">1 </span>On August 29 of the second year of King Darius’s reign, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> gave a message through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Jeshua son of Jehozadak, the high priest.",
+			"2": "<sup class=\"versenum\">2 </sup>“This is what the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies says: The people are saying, ‘The time has not yet come to rebuild the house of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.’”",
+			"3": "<sup class=\"versenum\">3 </sup>Then the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> sent this message through the prophet Haggai:",
+			"4": "<sup class=\"versenum\">4 </sup>“Why are you living in luxurious houses while my house lies in ruins?",
+			"5": "<sup class=\"versenum\">5 </sup>This is what the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies says: Look at what’s happening to you!",
+			"6": "<sup class=\"versenum\">6 </sup>You have planted much but harvest little. You eat but are not satisfied. You drink but are still thirsty. You put on clothes but cannot keep warm. Your wages disappear as though you were putting them in pockets filled with holes!",
+			"7": "<sup class=\"versenum\">7 </sup>“This is what the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies says: Look at what’s happening to you!",
+			"8": "<sup class=\"versenum\">8 </sup>Now go up into the hills, bring down timber, and rebuild my house. Then I will take pleasure in it and be honored, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"9": "<sup class=\"versenum\">9 </sup>You hoped for rich harvests, but they were poor. And when you brought your harvest home, I blew it away. Why? Because my house lies in ruins, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies, while all of you are busy building your own fine houses.",
+			"10": "<sup class=\"versenum\">10 </sup>It’s because of you that the heavens withhold the dew and the earth produces no crops.",
+			"11": "<sup class=\"versenum\">11 </sup>I have called for a drought on your fields and hills—a drought to wither the grain and grapes and olive trees and all your other crops, a drought to starve you and your livestock and to ruin everything you have worked so hard to get.”",
+			"12": "<sup class=\"versenum\">12 </sup>Then Zerubbabel son of Shealtiel, and Jeshua son of Jehozadak, the high priest, and the whole remnant of God’s people began to obey the message from the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> their God. When they heard the words of the prophet Haggai, whom the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> their God had sent, the people feared the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"13": "<sup class=\"versenum\">13 </sup>Then Haggai, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s messenger, gave the people this message from the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>: “I am with you, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>!”",
+			"14": "<sup class=\"versenum\">14 </sup>So the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> sparked the enthusiasm of Zerubbabel son of Shealtiel, governor of Judah, and the enthusiasm of Jeshua son of Jehozadak, the high priest, and the enthusiasm of the whole remnant of God’s people. They began to work on the house of their God, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies,",
+			"15": "<sup class=\"versenum\">15 </sup>on September 21 of the second year of King Darius’s reign."
+		},
+		"2": {
+			"1": "<span class=\"chapternum\">2 </span>Then on October 17 of that same year, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> sent another message through the prophet Haggai.",
+			"2": "<sup class=\"versenum\">2 </sup>“Say this to Zerubbabel son of Shealtiel, governor of Judah, and to Jeshua son of Jehozadak, the high priest, and to the remnant of God’s people there in the land:",
+			"3": "<sup class=\"versenum\">3 </sup>‘Does anyone remember this house—this Temple—in its former splendor? How, in comparison, does it look to you now? It must seem like nothing at all!",
+			"4": "<sup class=\"versenum\">4 </sup>But now the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> says: Be strong, Zerubbabel. Be strong, Jeshua son of Jehozadak, the high priest. Be strong, all you people still left in the land. And now get to work, for I am with you, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies.",
+			"5": "<sup class=\"versenum\">5 </sup>My Spirit remains among you, just as I promised when you came out of Egypt. So do not be afraid.’",
+			"6": "<sup class=\"versenum\">6 </sup>“For this is what the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies says: In just a little while I will again shake the heavens and the earth, the oceans and the dry land.",
+			"7": "<sup class=\"versenum\">7 </sup>I will shake all the nations, and the treasures of all the nations will be brought to this Temple. I will fill this place with glory, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies.",
+			"8": "<sup class=\"versenum\">8 </sup>The silver is mine, and the gold is mine, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies.",
+			"9": "<sup class=\"versenum\">9 </sup>The future glory of this Temple will be greater than its past glory, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies. And in this place I will bring peace. I, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies, have spoken!”",
+			"10": "<sup class=\"versenum\">10 </sup>On December 18 of the second year of King Darius’s reign, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> sent this message to the prophet Haggai:",
+			"11": "<sup class=\"versenum\">11 </sup>“This is what the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies says. Ask the priests this question about the law:",
+			"12": "<sup class=\"versenum\">12 </sup>‘If one of you is carrying some meat from a holy sacrifice in his robes and his robe happens to brush against some bread or stew, wine or olive oil, or any other kind of food, will it also become holy?’”The priests replied, “No.”",
+			"13": "<sup class=\"versenum\">13 </sup>Then Haggai asked, “If someone becomes ceremonially unclean by touching a dead person and then touches any of these foods, will the food be defiled?”And the priests answered, “Yes.”",
+			"14": "<sup class=\"versenum\">14 </sup>Then Haggai responded, “That is how it is with this people and this nation, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>. Everything they do and everything they offer is defiled by their sin.",
+			"15": "<sup class=\"versenum\">15 </sup>Look at what was happening to you before you began to lay the foundation of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s Temple.",
+			"16": "<sup class=\"versenum\">16 </sup>When you hoped for a twenty-bushel crop, you harvested only ten. When you expected to draw fifty gallons from the winepress, you found only twenty.",
+			"17": "<sup class=\"versenum\">17 </sup>I sent blight and mildew and hail to destroy everything you worked so hard to produce. Even so, you refused to return to me, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>.",
+			"18": "<sup class=\"versenum\">18 </sup>“Think about this eighteenth day of December, the day when the foundation of the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>’s Temple was laid. Think carefully.",
+			"19": "<sup class=\"versenum\">19 </sup>I am giving you a promise now while the seed is still in the barn. You have not yet harvested your grain, and your grapevines, fig trees, pomegranates, and olive trees have not yet produced their crops. But from this day onward I will bless you.”",
+			"20": "<sup class=\"versenum\">20 </sup>On that same day, December 18, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> sent this second message to Haggai:",
+			"21": "<sup class=\"versenum\">21 </sup>“Tell Zerubbabel, the governor of Judah, that I am about to shake the heavens and the earth.",
+			"22": "<sup class=\"versenum\">22 </sup>I will overthrow royal thrones and destroy the power of foreign kingdoms. I will overturn their chariots and riders. The horses will fall, and their riders will kill each other.",
+			"23": "<sup class=\"versenum\">23 </sup>“But when this happens, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies, I will honor you, Zerubbabel son of Shealtiel, my servant. I will make you like a signet ring on my finger, says the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span>, for I have chosen you. I, the <span style=\"font-variant: small-caps\" class=\"small-caps\">Lord</span> of Heaven’s Armies, have spoken!”"
+		}
+	}
+};
+module.exports = book;
