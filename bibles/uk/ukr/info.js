@@ -114,6 +114,7 @@ var info = {
 			"numChapters": 29,
 			"synonyms": [
 				"1 хроніки",
+				"1 Хронік",
 				"1 Хр",
 				"1Chr"
 			]
@@ -123,6 +124,7 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"2 хроніки",
+				"2 Хронік",
 				"2 Хр",
 				"2Chr"
 			]
@@ -298,6 +300,7 @@ var info = {
 			"numChapters": 7,
 			"synonyms": [
 				"Михей",
+				"Михея",
 				"Мих",
 				"Mic"
 			]
@@ -504,6 +507,7 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"До Тита",
+				"Тита",
 				"Тит",
 				"Titus"
 			]
@@ -513,6 +517,7 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"До Филимона",
+				"Филм",
 				"Флм",
 				"Phlm"
 			]
