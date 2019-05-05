@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malachiáš",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<span>1</span> Výnos. Hospodinovo slovo k Izraeli prostřednictvím Malachiáše.",
+			"2": "<span>2</span> Zamiloval jsem si vás, praví Hospodin. Ptáte se: Jak jsi nám prokázal lásku? Což nebyl Ezau Jákobův bratr, [je] Hospodinův výrok, a [přece] jsem si Jákoba zamiloval,",
+			"3": "<span>3</span> ale Ezaua jsem nenáviděl. Proměnil jsem jeho hory [v] pustinu a jeho dědictví [jsem dal] stepním šakalům.",
+			"4": "<span>4</span> Když Edóm prohlašuje: Jsme pobořeni, ale znovu postavíme [to, co bylo v] troskách, Hospodin zástupů praví toto: Ať si stavějí, já budu bořit. Nazvou je územím ničemnosti, lidem, [na] němž je Hospodinovo rozhořčení navěky.",
+			"5": "<span>5</span> Vaše oči [to] uvidí a řeknete: Hospodin je veliký [i] za územím Izraele.",
+			"6": "<span>6</span> Syn ctí otce a otrok svého pána. Jestliže jsem otec, kde [je] úcta [ke] mně? Jestliže jsem Pán, kde [je] bázeň [přede] mnou? – praví Hospodin zástupů vám kněžím, kteří opovrhujete mým jménem. Ptáte se: Jak opovrhujeme tvým jménem?",
+			"7": "<span>7</span> Přinášíte na můj oltář poskvrněný chléb. Ptáte se: Čím tě poskvrňujeme? Tím, že říkáte: Hospodinovým stolem je [možno] pohrdat.",
+			"8": "<span>8</span> Když přinášíte k oběti slepé [zvíře, což to] není zlé? Když přinášíte chromé a nemocné, [což to] není zlé? Jen to přines svému místodržiteli! Zdalipak si tě oblíbí, zdalipak tě milostivě přijme? – praví Hospodin zástupů.",
+			"9": "<span>9</span> Nuže, jen si hledejte přízeň Boha, aby se [nad] vámi smiloval! Toho se [mu] od vás dostalo – cožpak vás milostivě přijme? – praví Hospodin zástupů.",
+			"10": "<span>10</span> Kéž by tak někdo z vás zavřel dveře, abyste nadarmo nezapalovali [oheň na] mém oltáři! Nemám ve vás zalíbení, praví Hospodin zástupů, ani přídavnou oběť od vás si neoblíbím.",
+			"11": "<span>11</span> Neboť od východu slunce až na západ velké [bude] mé jméno mezi národy a na každém místě bude přinášeno kadidlo mému jménu a čistá přídavná oběť, neboť mé jméno [je] velké mezi národy, praví Hospodin zástupů.",
+			"12": "<span>12</span> Ale vy ho znesvěcujete, když říkáte: Panovníkův stůl je poskvrněný, jeho ovocem, jeho potravou [je možno] pohrdat.",
+			"13": "<span>13</span> Říkáte také: Hle, jak otravné! – a ošklíbáte se nad tím, praví Hospodin zástupů. Přinášíte ukradené, chromé a nemocné; to přinášíte jako přídavnou oběť. Takovou [oběť] mám od vás se zalíbením přijmout? – praví Hospodin.",
+			"14": "<span>14</span> Proklet buď ten, kdo jedná lstivě – má ve svém stádu samce, učiní slib, ale obětuje Panovníkovi poškozené – neboť jsem velký král, praví Hospodin zástupů, mé jméno vzbuzuje bázeň mezi národy."
+		},
+		"2": {
+			"1": "<span>1</span> A nyní o vás kněžích [je] tento příkaz:",
+			"2": "<span>2</span> Jestliže neposlechnete a nevezmete si k srdci, abyste vzdávali slávu mému jménu, praví Hospodin zástupů, pošlu na vás kletbu a vaše požehnání změním v kletbu. Ano, [již] jsem ho změnil v kletbu, protože si [to] neberete k srdci.",
+			"3": "<span>3</span> Hle, okřiknu vaše potomstvo, rozmetám výměty na vaši tvář, výměty [z] vašich svátečních obětí, a odstraní vás spolu s nimi.",
+			"4": "<span>4</span> I poznáte, že jsem vám poslal tento příkaz, aby byla [upevněna] má smlouva s Lévim, praví Hospodin zástupů.",
+			"5": "<span>5</span> Má smlouva s ním byla život a pokoj. Dal jsem mu je [k] bázni. Bál se mě a děsil se před mým jménem.",
+			"6": "<span>6</span> Pravdivý zákon byl v jeho ústech, zvrácenost nebyla nalezena na jeho rtech, v pokoji a podle práva chodil se mnou a mnohé odvrátil od provinění.",
+			"7": "<span>7</span> Neboť rty kněze uchovávají poznání a z jeho úst se vyhledává poučení, neboť je poslem Hospodina zástupů.",
+			"8": "<span>8</span> Vy jste se však odvrátili od cesty, mnohé jste poučením přivedli k pádu, zkazili jste lévijskou smlouvu, praví Hospodin zástupů.",
+			"9": "<span>9</span> Také já jsem vás učinil opovrženými a poníženými před vším lidem, tak jako jste vy nezachovávali mé cesty a při poučení jste stranili lidem.",
+			"10": "<span>10</span> Což nemáme všichni jednoho otce? Cožpak nás nestvořil jeden Bůh? Proč jednáme věrolomně jeden vůči druhému a znesvěcujeme smlouvu svých otců?",
+			"11": "<span>11</span> Juda byl nevěrný, ohavnost se páchala v Izraeli i v Jeruzalémě, neboť Juda znesvětil Hospodinovu svatyni, kterou [on] miluje, když se oženil [s] dcerou cizího boha.",
+			"12": "<span>12</span> Hospodin ať vyhladí ze stanů Jákobových každého, kdo to páchá, toho, kdo bdí, a toho, kdo odpovídá, i toho, kdo přináší přídavnou oběť Hospodinu zástupů.",
+			"13": "<span>13</span> A ještě toto činíte: Zakrýváte Hospodinův oltář slzami, pláčem a nářkem, zatímco [on] již nehledí na přídavnou oběť, nepřijme [ji] od vás [se] zalíbením.",
+			"14": "<span>14</span> A ptáte se: Proč? Protože Hospodin je svědkem mezi tebou a ženou tvého mládí, vůči níž jsi byl nevěrný, ačkoliv ona [je] tvou družkou, ženou tvé smlouvy.",
+			"15": "<span>15</span> Ten, [kdo] má ostatek ducha, [to] nebude dělat. A co [udělal] ten jeden, když hledal potomka [od] Boha? Mějte se na pozoru ve svém duchu, vůči ženě svého mládí ať není [nikdo] nevěrný.",
+			"16": "<span>16</span> Neboť nenávidím propuštění, praví Hospodin, Bůh Izraele, a toho, kdo přikrývá násilí na svém oděvu, praví Hospodin zástupů. Mějte se na pozoru ve svém duchu a nebuďte nevěrní.",
+			"17": "<span>17</span> Unavujete Hospodina svými slovy. Ptáte se: Čím [ho] unavujeme? Tím , že říkáte: Každý, kdo páchá zlo, je dobrý v Hospodinových očích, v takových on má zalíbení, anebo: Kde [je] spravedlivý Bůh?"
+		},
+		"3": {
+			"1": "<span>1</span> Hle, posílám svého posla a připraví cestu přede mnou. Panovník, kterého hledáte, vstoupí náhle do svého chrámu, posel smlouvy, jehož si přejete, hle, přijde, praví Hospodin zástupů.",
+			"2": "<span>2</span> Kdo vydrží den jeho příchodu? Kdo obstojí, až se ukáže? Vždyť on [je] jako zlatníkův oheň a pradlákův louh.",
+			"3": "<span>3</span> Posadí se [jako] zlatník a čistič stříbra, pročistí syny Léviho, přečistí je jako zlato a stříbro a budou Hospodinu přinášet spravedlivé přídavné oběti",
+			"4": "<span>4</span> a Hospodinu bude přídavná oběť Judy a Jeruzaléma příjemná jako [za] dnů dávných, jako [v] letech pradávných.",
+			"5": "<span>5</span> Přiblížím se k vám se soudem a budu rychlým svědkem proti čarodějům, cizoložníkům a těm, kdo lživě přísahají, těm, kdo utlačují [za] mzdu najatého, vdovu a sirotka, křivdí příchozímu a nebojí se mě, praví Hospodin zástupů.",
+			"6": "<span>6</span> Neboť já Hospodin jsem se nezměnil, ani vy jste nepřestali [být] synové Jákobovi.",
+			"7": "<span>7</span> Ode dnů svých otců jste se odvrátili od mých ustanovení a nezachovávali jste [je]. Vraťte se ke mně a vrátím se k vám, praví Hospodin zástupů. Ptáte se: Jak se [máme] navrátit?",
+			"8": "<span>8</span> Což [smí] člověk okrádat Boha? Ale vy mě okrádáte! Ptáte se: Jak tě okrádáme? Na desátcích a darech pozdvihování.",
+			"9": "<span>9</span> Kletbou jste prokleti, protože mě okrádáte, celý národ.",
+			"10": "<span>10</span> Přineste celý desátek do skladu, ať je potrava v mém domě. Vyzkoušejte mě takto, praví Hospodin zástupů, zdali vám neotevřu nebeské průduchy a [ne]vyleji na vás požehnání, dokud ne[bude] dostatek.",
+			"11": "<span>11</span> Kvůli vám okřiknu žrouta a nezničí vám výnos země; ani réva na poli vás nepřipraví o plody, praví Hospodin zástupů.",
+			"12": "<span>12</span> Budou vás blahoslavit všechny národy, neboť budete oblíbenou zemí, praví Hospodin zástupů.",
+			"13": "<span>13</span> Protivili jste se mi svými slovy, praví Hospodin. Ptáte se: Co jsme mluvili proti tobě?",
+			"14": "<span>14</span> Říkáte: Sloužit Bohu [je] k ničemu! Jaký zisk [z toho máme], že zachováváme jeho řád, když chodíme před Hospodinem zástupů ve smutku?",
+			"15": "<span>15</span> Nuže, nazýváme domýšlivce šťastnými – nejenže se dobře daří těm, kdo páchali ničemnost, ale provokovali Boha, a unikli.",
+			"16": "<span>16</span> Tehdy ti, kdo se bojí Hospodina, mluvili jeden s druhým a Hospodin dával pozor a slyšel. Pamětní kniha byla před ním sepsána pro ty, kdo se bojí Hospodina a kdo si váží jeho jména.",
+			"17": "<span>17</span> Budou mým vlastnictvím – praví Hospodin zástupů – v den, který učiním. Budu mít s nimi soucit, jako má člověk soucit se svým synem, který mu slouží.",
+			"18": "<span>18</span> Znovu budete vidět [rozdíl] mezi spravedlivým a ničemou, mezi tím, kdo Bohu slouží, a tím, kdo mu neslouží.",
+			"19": "<span>19</span> Neboť hle, přichází den planoucí jako pec a všichni domýšlivci i všichni, kdo páchají ničemnost, se stanou strništěm. Ten přicházející den je spálí, praví Hospodin zástupů, nezanechá z nich kořen ani větev.",
+			"20": "<span>20</span> Avšak vám, kdo se bojíte mého jména, vzejde slunce spravedlnosti a na jeho paprscích [bude] uzdravení. Vyjdete a budete poskakovat jako vykrmené tele.",
+			"21": "<span>21</span> Pošlapete ničemy, ano, budou popelem pod chodidly vašich nohou v den, který já učiním, praví Hospodin zástupů.",
+			"22": "<span>22</span> Pamatujte [na] zákon mého otroka Mojžíše, který jsem mu dal na Chorébu, ustanovení a nařízení pro celý Izrael.",
+			"23": "<span>23</span> Hle, pošlu vám proroka Elijáše, dříve než přijde Hospodinův den, velký a hrozný.",
+			"24": "<span>24</span> On obrátí srdce otců k synům a srdce synů k otcům, abych nepřišel a nestihl zemi klatbou."
+		}
+	}
+};
+module.exports = book;
